@@ -15,7 +15,7 @@ module top_logic_gate(
 
     wire y;
 
-    // Instantiate the logic gate
+    
     logic_gate_fpga lg (
         .s0(s0),
         .s1(s1),
@@ -28,9 +28,9 @@ module top_logic_gate(
         .y(y)
     );
 
-    // Map LEDs: input indicators + output
-    assign leds[0] = s0; // LED shows input 1
-    assign leds[1] = s1; // LED shows input 2
-    assign leds[2] = y;  // LED shows output
+   
+    assign leds[0] = s0; 
+    assign leds[1] = s1; 
+    assign leds[2] = y;  
 
 endmodule
