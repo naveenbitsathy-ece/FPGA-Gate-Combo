@@ -1,3 +1,4 @@
+
 module logic_gate_fpga(
     input s0,    // Input 1 (switch)
     input s1,    // Input 2 (switch)
