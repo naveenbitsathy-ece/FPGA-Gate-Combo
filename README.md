@@ -100,7 +100,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Naveen Bitsathy**
+**Naveenraj Senthilkumar**
 
 Electronics and Communication Engineering (ECE)  
 Interested in VLSI, Digital Design, FPGA Development, and RTL Design.
